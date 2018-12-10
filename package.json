@@ -1,0 +1,33 @@
+{
+    "name": "jet8.wallet.solidity",
+    "version": "1.0.0",
+    "description": "JET8 Wallet Smart Contracts",
+    "main": "truffle-config.js",
+    "directories": {
+      "test": "test"
+    },
+    "scripts": {
+      "test": "truffle test"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://jaumevn@github.com/creativehothouse/jet8-wallet-solidity.git"
+    },
+    "keywords": [
+      "jet8",
+      "ethereum",
+      "j8t",
+      "token"
+    ],
+    "author": "Jaume Vinas Navas",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/creativehothouse/jet8-wallet-solidity/issues"
+    },
+    "homepage": "https://github.com/creativehothouse/jet8-wallet-solidity#readme",
+    "dependencies": {
+      "bignumber.js": "^7.2.1",
+      "truffle-privatekey-provider": "^0.1.0"
+    }
+  }
+  
